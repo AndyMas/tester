@@ -2,4 +2,5 @@
   width: 1000px; }
   .block .sub_element {
     width: 95px;
-    margin: 0 0 0 5px; }
+    margin: 0 0 0 5px; 
+    padding: 10px;}
